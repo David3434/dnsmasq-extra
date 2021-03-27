@@ -223,6 +223,9 @@ update() {
 	update_sub 'custom.conf'
 	update_sub 'tldn'
 	update_sub 'adblock'
+	update_sub 'line'
+	update_sub 'stadisable'
+	update_sub 'staenable'
 }
 
 update_sub() {
