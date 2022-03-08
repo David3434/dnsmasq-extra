@@ -278,6 +278,8 @@ update() {
 	update_sub 'smartdns'
 	update_sub 'smartdnsini'
 	update_sub 'dnsmasq-extraconfig'
+	update_sub 'ShadowrocketEx.conf'
+	update_others
 }
 
 update_sub() {
